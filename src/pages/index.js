@@ -46,7 +46,7 @@ export default HomeOne;
 export async function getServerSideProps() {
 	const parser = new Parser({ timeout: 2000 });
 
-	const posts = getAllPosts([
+	const posts = await getAllPosts([
 		"postFormat",
 		"trending",
 		"story",
