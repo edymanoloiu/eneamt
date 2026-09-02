@@ -1,0 +1,19 @@
+node_modules
+.next*
+*.DS_Store*
+out/*
+.vercel
+.env
+.env.production
+.DS_Store
+lib/postsRawContent.js
+# Dependencies / Next.js build (auto-added)
+.next/
+
+# OpenNext (Cloudflare) build output
+.open-next
+.wrangler
+
+# Generated evergreen mirrors (recreated by npm run generate:evergreen)
+public/_evergreen/
+public/evergreen-index.json
