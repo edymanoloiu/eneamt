@@ -46,6 +46,7 @@ if (process.env.VERCEL && process.env.VERCEL_ENV) {
 
 	// Build-only copies under lib/ (public/*.json stays for packaging).
 	rmIfExists(path.join(root, "lib", "postsIndex.json"), "lib/postsIndex.json");
+	rmIfExists(path.join(root, "lib", "postsBodies.json"), "lib/postsBodies.json");
 
 	// Re-prune unused @next/swc-* after build (webpack may leave extra platform binaries).
 	const nextPkgs = path.join(root, "node_modules", "@next");
@@ -57,6 +58,10 @@ if (process.env.VERCEL && process.env.VERCEL_ENV) {
 			rmIfExists(path.join(nextPkgs, name), `node_modules/@next/${name}`);
 		}
 	}
+
+	// Vercel build reports flagged a ~250MB .git pack as the ENOSPC culprit during
+	// "Deploying outputs". Packaging does not need the git history after build.
+	rmIfExists(path.join(root, ".git"), ".git/");
 }
 
 fs.mkdirSync(cacheDir, { recursive: true });
