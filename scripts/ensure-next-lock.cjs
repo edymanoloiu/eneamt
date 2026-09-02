@@ -48,7 +48,8 @@ if (process.env.VERCEL && process.env.VERCEL_ENV) {
 	rmIfExists(path.join(root, "lib", "postsIndex.json"), "lib/postsIndex.json");
 	rmIfExists(path.join(root, "lib", "postsBodies.json"), "lib/postsBodies.json");
 
-	// After next build, SWC binaries are not needed for packaging (~124MB each).
+	// After next build, native SWC compiler binaries are unused (~124MB).
+	// Keep node_modules/@swc/helpers — packaging still lstats those files.
 	const nextPkgs = path.join(root, "node_modules", "@next");
 	if (fs.existsSync(nextPkgs)) {
 		for (const name of fs.readdirSync(nextPkgs)) {
@@ -56,8 +57,6 @@ if (process.env.VERCEL && process.env.VERCEL_ENV) {
 			rmIfExists(path.join(nextPkgs, name), `node_modules/@next/${name}`);
 		}
 	}
-	rmIfExists(path.join(root, "node_modules", "@swc"), "node_modules/@swc");
-	rmIfExists(path.join(root, "public", "fonts"), "public/fonts/");
 
 }
 
