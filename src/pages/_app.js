@@ -20,7 +20,7 @@ const themeInitScript = `
 	})();
 `;
 
-const GA_ID = "G-0TDTTZMV6Z";
+const GA_ID = "G-FL2BLLX9PN";
 
 function MyApp({ Component, pageProps }) {
 	const router = useRouter();
