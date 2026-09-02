@@ -59,9 +59,6 @@ if (process.env.VERCEL && process.env.VERCEL_ENV) {
 		}
 	}
 
-	// Vercel build reports flagged a ~250MB .git pack as the ENOSPC culprit during
-	// "Deploying outputs". Packaging does not need the git history after build.
-	rmIfExists(path.join(root, ".git"), ".git/");
 }
 
 fs.mkdirSync(cacheDir, { recursive: true });
