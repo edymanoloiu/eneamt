@@ -1,14 +1,14 @@
 [
 	{
-		"label": "Știrile zilei în Piatra Neamț",
-		"path": "/categorie/azi-in-piatra-neamt"
+		"label": "Azi in Neamt",
+		"path": "/categorie/azi-in-neamt"
 	},
 	{
 		"label": "Știri naționale și internaționale",
 		"path": "/categorie/stiri-nationale-si-internationale"
 	},
 	{
-		"label": "Evenimente și Cultură în Piatra Neamț",
+		"label": "Evenimente și Cultură în Neamț",
 		"path": "/categorie/evenimente-si-cultura"
 	}
 ]

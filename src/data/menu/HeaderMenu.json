@@ -1,7 +1,7 @@
 [
 	{
 		"label": "Ultimele știri",
-		"path": "/categorie/azi-in-piatra-neamt/"
+		"path": "/categorie/azi-in-neamt/"
 	},
 	{
 		"label": "Ghidul orașului",
@@ -24,7 +24,7 @@
 		"path": "/locuri/"
 	},
 	{
-		"label": "Despre Piatra Neamț",
+		"label": "Despre Neamț",
 		"path": "/despre/"
 	}
 ]

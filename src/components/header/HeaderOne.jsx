@@ -4,6 +4,7 @@ import Image from "next/image";
 import { dateFormate } from "../../utils";
 import SocialLink from "../../data/social/SocialLink.json";
 import MenuData from "../../data/menu/HeaderMenu.json";
+import publication from "../../data/publication";
 import OffcanvasMenu from "./OffcanvasMenu";
 
 const HeaderOne = () => {
@@ -109,8 +110,8 @@ const HeaderOne = () => {
 								<ul className="header-top-nav list-inline justify-content-center justify-content-md-start">
 									<li className="current-date">{dateFormate()}</li>
 									{weather?.current ?
-										<li style={{ 'display': 'flex', alignItems: 'center' }}>Azi în Piatra Neamț | <img style={{ 'width': '2rem', 'height': '2rem' }} src={weather.current?.condition?.icon} />{`${weather.current?.temp_c} °C`} | Tot ce contează, azi, în Piatra Neamț.</li> :
-										<li>Azi în Piatra Neamț | Tot ce contează, azi, în Piatra Neamț.</li>
+										<li style={{ 'display': 'flex', alignItems: 'center' }}>Azi în Neamț | <img style={{ 'width': '2rem', 'height': '2rem' }} src={weather.current?.condition?.icon} />{`${weather.current?.temp_c} °C`} | Tot ce contează, azi, în Neamț.</li> :
+										<li>Azi în Neamț | Tot ce contează, azi, în Neamț.</li>
 									}
 								</ul>
 							</div>
@@ -143,8 +144,8 @@ const HeaderOne = () => {
 								<Link href="/">
 									
 										<Image
-											src="/images/cropped_image.png"
-											alt="brand-logo"
+											src={publication.favicon || "/images/cropped_image.png"}
+											alt={publication.publicationName}
 											width={56}
 											height={56}
 										/>

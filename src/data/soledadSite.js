@@ -1,17 +1,16 @@
 const soledadSite = {
-	localCate: "Azi in Piatra Neamt",
-	categorySlug: "azi-in-piatra-neamt",
-	pageH1: "Știrile zilei în Piatra Neamț",
-	sidebarLabel: "Știri locale Piatra Neamț",
-	sidebarTitle: "Azi în Piatra Neamț",
+	localCate: "Azi in Neamt",
+	categorySlug: "azi-in-neamt",
+	pageH1: "Știri din Neamț",
+	sidebarLabel: "Știri locale Neamț",
+	sidebarTitle: "eNeamț",
 	sidebarText:
-		"Știrile zilei din Piatra Neamț — informații locale, evenimente și actualitate din județul Neamț. Tot ce contează, azi, în Piatra Neamț.",
-	localBoxTitle: "Azi în Piatra Neamț",
-	localBoxDesc: "Știrile zilei din Piatra Neamț — tot ce contează, azi, local.",
-	eventsBoxDesc: "Agenda culturală, festivaluri și evenimente în Piatra Neamț.",
-	newsletterTagline: "Fără spam — doar știri și actualizări din Piatra Neamț, direct în inbox.",
-	metaTitle:
-		"Știrile zilei în Piatra Neamț | Cele mai importante știri din Piatra Neamț. Află tot ce contează, azi, în Piatra Neamț.",
+		"Actualitatea din Piatra Neamț, Roman, Târgu Neamț și celelalte comunități ale județului, completată de informații despre turism, administrație și evenimente.",
+	localBoxTitle: "Azi in Neamt",
+	localBoxDesc: "Actualitate din Piatra Neamț, Roman, Târgu Neamț și restul județului Neamț.",
+	eventsBoxDesc: "Agenda culturală, festivaluri și evenimente în Neamț.",
+	newsletterTagline: "Fără spam — doar știri și actualizări din Neamț, direct în inbox.",
+	metaTitle: "eNeamț - Știri din Neamț și Piatra Neamț",
 };
 
 export default soledadSite;

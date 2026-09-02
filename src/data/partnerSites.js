@@ -70,7 +70,7 @@ const partnerSites = [
 			{ url: "https://esatumare.ro/", label: "eSatuMare - Tot ce contează în Satu Mare, într-un singur loc." },
 			{ url: "https://aziinsuceava.ro/", label: "Știrile zilei în Suceava - Știri locale Suceava" },
 			{ url: "https://voceasucevei.ro/", label: "Vocea Sucevei - Știri locale Suceava" },
-			{ url: "https://eneamt.ro/", label: "Știrile zilei în Piatra Neamț - Știri locale Piatra Neamț" },
+			{ url: "https://eneamt.ro/", label: "eNeamț - Știri locale din Neamț" },
 			{ url: "https://aziindrobeta.ro/", label: "Știrile zilei în Drobeta‑Turnu Severin - Știri locale Drobeta‑Turnu Severin" },
 			{ url: "https://voceajiului.ro/", label: "Știrile zilei în Târgu Jiu - Știri locale Târgu Jiu" },
 			{ url: "https://aziincovasna.ro/", label: "Știrile zilei în Covasna - Știri locale Covasna" },

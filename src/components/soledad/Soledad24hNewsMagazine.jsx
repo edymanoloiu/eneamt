@@ -10,6 +10,7 @@ import {
 	takeUniquePosts,
 } from "../../../lib/homepagePosts";
 import site from "../../data/soledadSite";
+import { isLocalNewsCate } from "../../utils/categories";
 import SoledadPostCard from "./SoledadPostCard";
 
 const formatDate = (date) => {
@@ -101,7 +102,7 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 		return true;
 	});
 	const localCity = sortPostsByDate(
-		dedupedLocal.filter((p) => p.cate === site.localCate || p.isPromo),
+		dedupedLocal.filter((p) => p.isPromo || isLocalNewsCate(p.cate)),
 	);
 	const evenimente = sortPostsByDate(
 		culturePosts.filter((p) => p.cate === "Evenimente si cultura"),

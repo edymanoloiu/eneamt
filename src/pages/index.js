@@ -6,7 +6,9 @@ import HeadMeta from "../components/elements/HeadMeta";
 import FooterOne from "../components/footer/FooterOne";
 import HeaderOne from "../components/header/HeaderOne";
 import Soledad24hNewsMagazine from "../components/soledad/Soledad24hNewsMagazine";
+import publication from "../data/publication";
 import site from "../data/soledadSite";
+import { isLocalNewsCate } from "../utils/categories";
 
 const HomeOne = ({ allPosts, sitemaps }) => {
 	const uniquePosts = dedupePostsBySlug(allPosts);
@@ -19,7 +21,14 @@ const HomeOne = ({ allPosts, sitemaps }) => {
 
 	return (
 		<>
-			<HeadMeta metaTitle={site.metaTitle} />
+			<HeadMeta
+				fullPageTitle={publication.seo.title}
+				metaDesc={publication.seo.description}
+				ogTitle={publication.seo.openGraph.title}
+				ogDescription={publication.seo.openGraph.description}
+				twitterTitle={publication.seo.twitter.title}
+				twitterDescription={publication.seo.twitter.description}
+			/>
 			<HeaderOne />
 			<Soledad24hNewsMagazine
 				localPosts={localPosts}
@@ -62,7 +71,7 @@ export async function getServerSideProps() {
 		.sort((a, b) => new Date(b.date) - new Date(a.date));
 	const allPosts = [
 		...posts.filter((a) => a.cate === 'Evenimente si cultura').slice(0, 30),
-		...posts.filter((a) => a.cate === site.localCate).slice(0, 30),
+		...posts.filter((a) => isLocalNewsCate(a.cate)).slice(0, 30),
 		...posts.filter((a) => a.cate === 'Stiri nationale si internationale').slice(0, 30),
 		...posts.filter((a) => a.isPromo).slice(0, 30),
 	];

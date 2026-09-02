@@ -8,7 +8,7 @@ const PostSectionTwo = ({ postData }) => {
 	return (
 		<div className="section-gap section-gap-top__with-text top-stories bg-grey-light-three">
 			<div className="container">
-				<SectionTitle title="Evenimente și Cultură în Piatra Neamț" btnText="Afla mai multe!" btnUrl="/categorie/evenimente-si-cultura"/>
+				<SectionTitle title="Evenimente și Cultură în Neamț" btnText="Afla mai multe!" btnUrl="/categorie/evenimente-si-cultura"/>
 				<div className="row">
 					<div className="col-lg-8">
 						{storyPost.slice(0, 3).map((data) => (
