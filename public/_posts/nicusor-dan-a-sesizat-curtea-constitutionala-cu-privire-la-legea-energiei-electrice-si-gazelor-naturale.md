@@ -1,0 +1,35 @@
+---
+postFormat: 'text'
+trending: false
+title: "Nicușor Dan a sesizat Curtea Constituțională cu privire la Legea energiei electrice și gazelor naturale"
+excerpt: "Nicușor Dan a sesizat Curtea Constituţională cu privire la o serie de modificări aduse de Parlament Legii energiei electrice și a gazelor naturale, considerând că acestea au fost adoptate cu depășirea limitelor de reexaminare impuse de președintele României. Printre principalele preocupări ale acestei cereri de reexaminare, formulate pe 12 decembrie 2023, se numără alinierea definiției prosumatorului conform legii, unde producătorii de energie cu capacități de minimum 1 MW necesită licențiere, similar altor producători. Președintele Klaus Iohannis a cerut reanalizarea posibilității ca prosumatorii să compenseze financiar surplusul de energie produsă și livrată pentru diverse locații de consum, condiționând acest lucru doar dacă aceste locații sunt conectate la același operator de distribuție și dacă producerea de energie nu constituie activitatea principală a prosumatorilor, aceasta constituind o barieră pentru accesul acestora pe piața electrică. În plus, s-a solicitat reevaluarea exceptării prosumatorilor cu putere instalată sub 900 kW de la costurile dezechilibrelor rețelei, cerințe legislative impuse de Regulamentul UE. Alte puncte sensibilizate includ reevaluarea limitei de compensare cantitativă de 400 kW impusă furnizorilor și eliminarea termenului de 24 de luni pentru consumul diferenței de energie produsă, care ar impune compensarea imediată. Era necesară și clarificarea emiterii de facturi de către furnizori în numele prosumatorilor pentru energie regenerabilă produsă și livrată, inclusiv detalii privind obligațiile fiscale. De asemenea, odată cu reexaminarea legislativă, sfera entităților publice care pot comercializa energie a fost extinsă, aspect nesolicitat de președinte, care ceruse doar clarificarea normei și nu extinderea aplicabilității sale. Impunerea limitei de 200 kW pentru prosumatori, revine și ea în vizor, fiind asociată cerințelor de compensare lunară și contabilizare a energiei. Cererea a subliniat închiderea reexaminării doar la observațiile președintelui și revine Parlamentului să adopte, respingă sau ignore aceste observații, în funcție de relevanța motivelor prezentate. Proiectul de lege inițial, trimis spre promulgare pe 25 noiembrie 2023, diferenția persoanele fizice de cele juridice ca prosumatori și includea creșterea limitei de putere la 400 kW pentru compensări și îmbunătățiri fiscale pentru cei cu puteri de până la 900 kW, iar aceste intervenții au stârnit o dispută juridică complexă menită să asigure adecvarea legislativă."
+featureImg: https://images.pexels.com/photos/3796993/pexels-photo-3796993.jpeg
+date: Oct 31 2025
+cate: 'Stiri nationale si internationale'
+cate_bg: 'bg-color-red-one'
+cate_img: '/images/category/world.png'
+post_views: '5K Vizualizari'
+post_share: '14 Shares'
+author_name: 'Ioana Păduraru'
+author_desg: 'Publisher'
+author_img: '/images/author/cristina.png'
+author_bio: 'Ioana Păduraru este o jurnalistă din Piatra Neamț care surprinde cu sensibilitate și rigurozitate pulsul orașului de sub poalele Pietricicăi. Cu o experiență solidă în presa locală și o pasiune sinceră pentru comunitate, Ioana abordează subiecte diverse – de la știri de actualitate și evenimente culturale, până la interviuri cu oameni care dau viață orașului. Scrie clar, onest și cu o voce apropiată de cititor, oferind zilnic informații relevante pentru toți cei care vor să fie conectați la ce se întâmplă în Piatra Neamț.'
+tags:
+- Stiri nationale si internationale
+- News
+---
+
+![Nicușor Dan a sesizat Curtea Constituțională cu privire la Legea energiei electrice și gazelor naturale](https://images.pexels.com/photos/3796993/pexels-photo-3796993.jpeg)
+Nicușor Dan a contestat la Curtea Constituțională modificările aduse Legii energiei electrice și gazelor naturale, trimițând o sesizare prin care subliniază că acestea au fost adoptate cu încălcarea limitelor stabilite de reexaminarea prezidențială. Actul normativ, reevaluat de Parlament, a suferit modificări care nu au fost solicitate de președintele României.
+
+În cererea de reexaminare din 12 decembrie 2023, președintele a solicitat alinierea definiției prosumatorului la reglementările care impun licențierea producătorilor cu capacități egale sau mai mari de 1 MW, tratându-i la fel ca pe orice alt operator de pe piață. De asemenea, Klaus Iohannis a solicitat revizuirea posibilității prosumatorilor de a compensa financiar surplusul de energie produs și livrat la un punct de consum cu energia consumată din rețea în alte locații, condiționând acest drept de conectarea la același operator de distribuție și de activitatea non-comercială a acestor entități, ceea ce poate limita accesul prosumatorilor la piața de energie.
+
+Președintele a cerut, de asemenea, revizuirea excepției de la responsabilitatea echilibrării pentru prosumatorii cu o capacitate instalată sub 900 kW și reconsiderarea unor politici care ar introduce immediate obligativitatea compensării pentru furnizorii de energie care încheie contracte de vânzare-cumpărare, în special în urma eliminării perioadei de 24 de luni pentru consumul diferenței de energie produsă și consumată.
+
+Obligația impusă furnizorilor de a emite facturi pentru energia regenerabilă livrată „în numele și în contul prosumatorilor” necesită clarificări privind obligațiile comerciale și cele fiscale. Mai mult, extinderea posibilității pentru autoritățile și instituțiile publice de a vinde energia produsă sau stocată, aspect ce nu fusese cerut de președinte, ridică semne de întrebare.
+
+Schimbările legislative revin, la un moment dat, la limita de 200 kW pentru puterea instalată a prosumatorilor și extind sfera entităților publice care pot cere compensare lunară pentru energia electrică. Presiunea asupra Parlamentului este de a decide dacă își asumă observațiile președintelui sau le consideră nefondate, rolul său fiind acela de a dezbate acceptabilitatea legii în noua formă.
+
+Legea trimisă inițial președintelui pentru promulgare pe 25 noiembrie 2023 aducea schimbări semnificative, distingând între prosumatorii persoane fizice și cele juridice și majorând limita de putere instalată pentru care se poate cere compensare la 400 kW. Noile definiții permiteau prosumatorilor să stocheze și să vândă energie direct altor consumatori conectați la aceeași rețea de distribuție și furnizor. Totodată, acestea includeau prevederi privind echilibrul rețelei și extinderea obligațiilor fiscale până la o putere de 900 kW pentru care prosumatorii nu erau obligați să emită facturi.
+
+Astfel, reexaminarea solicită o corelare a acestor prevederi cu strategii legislative și opțiuni de politică publică care să respecte atât dorințele prezidențiale, cât și nevoile pieței energetice actuale.
