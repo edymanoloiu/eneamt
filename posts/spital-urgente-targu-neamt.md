@@ -2,7 +2,7 @@
 postFormat: 'text'
 trending: false
 title: 'Spital urgențe Târgu Neamț'
-excerpt: 'Spitalul din Târgu Neamț are circuit propriu; cazurile grele urcă la **Traian 1**, **0233 219 440**. Duminica, UPU/CPU e deschis. 112.'
+excerpt: 'CPU Târgu Neamț: adresa spitalului, telefonul direct al Compartimentului de Primiri Urgențe și situațiile în care trebuie apelat 112.'
 featureImg: /images/posts/spital-urgente-targu-neamt.webp
 thumb: /images/posts/spital-urgente-targu-neamt.webp
 date: Sep 13 2026
@@ -26,14 +26,46 @@ tags:
 
 # Spital urgențe Târgu Neamț
 
-**Răspuns rapid:** Spitalul din Târgu Neamț are circuit propriu; cazurile grele urcă la **Traian 1**, **0233 219 440**. Duminică, 13 septembrie, urgența e deschisă. **112** dacă nu ajungi. Ambulatoriul nu e UPU.
+**Răspuns rapid:** Spitalul Orășenesc „Sfântul Dimitrie” publică pentru **CPU Târgu Neamț** numărul **0786 231 224**; centrala este **0233 790 824**. Unitatea este pe Bulevardul Ștefan cel Mare nr. 35. Pentru pericol vital, sună la **112**.
+
+**Actualizat: 13 septembrie 2026.** Sună la CPU pentru orientare numai dacă starea permite; un caz critic necesită apel la 112.
+
+> Programul și disponibilitatea serviciilor se pot modifica. Recomandăm verificarea telefonică înainte de deplasare.
+
+| Unitate | Adresă | Telefon | Program | Servicii relevante | Website |
+|---|---|---|---|---|---|
+| Spitalul Orășenesc „Sfântul Dimitrie” – CPU | Bd. Ștefan cel Mare nr. 35, Târgu Neamț | 0786 231 224; centrală 0233 790 824 | serviciu de urgență | evaluare și stabilizare inițială; consulturi în limita structurii locale | [spital-tirguneamt.ro](https://spital-tirguneamt.ro/) |
+
+## Când mergi la CPU
+
+CPU este punctul local pentru probleme acute care necesită evaluare rapidă. Pentru durere toracică severă, dificultăți mari de respirație, semne de AVC, convulsii, hemoragie sau pierderea stării de conștiență, apelează 112.
+
+## Cum am verificat informațiile
+
+Telefonul CPU și centrala provin din lista oficială a secțiilor și contactelor publicată de spital. Am separat aceste numere de contactele ambulatoriului și ale secțiilor.
 
 ## Întrebări frecvente
 
-### E deschis azi?
+### Care este telefonul CPU Târgu Neamț?
 
-UPU/CPU da.
+0786 231 224.
+
+### Care este telefonul centralei?
+
+0233 790 824.
+
+### Unde se află spitalul?
+
+Pe Bulevardul Ștefan cel Mare nr. 35.
+
+### CPU este același lucru cu ambulatoriul?
+
+Nu. CPU primește urgențe, în timp ce ambulatoriul oferă consultații în circuit separat.
 
 ## Surse
 
-- [Spital](https://sjuneamt.ro/)
+- [Spitalul „Sfântul Dimitrie” Târgu Neamț — secții și contacte](https://spital-tirguneamt.ro/lista-sectii-medicale-si-date-de-contact)
+- [Spitalul „Sfântul Dimitrie” Târgu Neamț — contact](https://spital-tirguneamt.ro/contact)
+- [STS — Serviciul de urgență 112](https://www.sts.ro/ro/serviciul-112)
+
+> **Important:** pentru simptome grave, apelează imediat 112.
