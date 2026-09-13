@@ -2,7 +2,7 @@
 postFormat: 'text'
 trending: false
 title: 'Spital urgențe Roman'
-excerpt: 'Spitalul municipal din Roman acoperă CPU-ul local; județeanul e **SJU Piatra Neamț, Traian 1**, **0233 219 440**. Duminica, UPU/CPU e deschis. 112.'
+excerpt: '**Spitalul Municipal de Urgență Roman**, **strada Tineretului nr. 28–30**, centrală **0233 740 581** / **0233 740 639**. Cazurile grele urcă la **SJU Piatra Neamț, Traian 1**, **0233 219 440**. Duminica, UPU/CPU e deschis. 112.'
 featureImg: /images/posts/spital-urgente-roman.webp
 thumb: /images/posts/spital-urgente-roman.webp
 date: Sep 13 2026
@@ -26,7 +26,7 @@ tags:
 
 # Spital urgențe Roman
 
-**Răspuns rapid:** Spitalul municipal din Roman acoperă CPU-ul local; județeanul e **SJU Piatra Neamț, Traian 1**, **0233 219 440**. Duminică, 13 septembrie, urgența e deschisă. **112** dacă nu ajungi. Ambulatoriul nu e UPU.
+**Răspuns rapid:** **Spitalul Municipal de Urgență Roman**, **strada Tineretului nr. 28–30**, centrală **0233 740 581** / **0233 740 639**. Cazurile grele urcă la **SJU Piatra Neamț, Traian 1**, **0233 219 440**. Duminică, 13 septembrie, urgența e deschisă. **112** dacă nu ajungi. Ambulatoriul nu e UPU.
 
 ## Întrebări frecvente
 
@@ -36,4 +36,4 @@ UPU/CPU da.
 
 ## Surse
 
-- [Spital](https://sjuneamt.ro/)
+- [Spital](https://new.spitalroman.ro/contact/)

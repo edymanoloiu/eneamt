@@ -2,7 +2,7 @@
 postFormat: 'text'
 trending: false
 title: 'Farmacii deschise acum Piatra Neamț'
-excerpt: 'Duminică: telefon local. Nu e tabel DSP „deschis acum”.'
+excerpt: '23 din 27 deschise la 12:42 în municipiu. Shopping City Decebal 79 ține 10:00–22:00. Roman nu e pe această listă.'
 featureImg: /images/posts/farmacii-deschise-acum-piatra-neamt.webp
 thumb: /images/posts/farmacii-deschise-acum-piatra-neamt.webp
 date: Sep 13 2026
@@ -26,7 +26,8 @@ tags:
 
 # Farmacii deschise acum Piatra Neamț
 
-**Răspuns rapid:** **13 septembrie 2026**, în Piatra Neamț verifici **telefonul de pe etichetă**.
+**Răspuns rapid:** Duminică, **13 septembrie 2026**, **12:42**, HartaFarmacii calcula **23 deschise din 27** în **Piatra Neamț**, plus **Ropharma nr. 13**. Help Net Shopping City, Decebal 79: **10:00–22:00**, **0759 045 704**. Lista de mai sus e a municipiului, nu a Romanului.
 
 ## Surse
-- [SJU Neamț](https://sjuneamt.ro/)
+
+- [HartaFarmacii — deschise acum Piatra Neamț](https://hartafarmacii.ro/farmacii-deschise-acum/piatra-neamt)

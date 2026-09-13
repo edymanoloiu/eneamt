@@ -35,4 +35,4 @@ Nu pe sursă oficială găsită.
 
 ## Surse
 
-- [Spital](https://sjuneamt.ro/)
+- [Spital](https://new.spitalroman.ro/contact/)

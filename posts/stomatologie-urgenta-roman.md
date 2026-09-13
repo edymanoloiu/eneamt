@@ -2,7 +2,7 @@
 postFormat: 'text'
 trending: false
 title: 'Stomatologie urgență Roman'
-excerpt: 'Spitalul municipal din Roman acoperă CPU-ul local; județeanul e **SJU Piatra Neamț, Traian 1**, **0233 219 440**. Confirmă stomatologul. Nu e lucrare de durată.'
+excerpt: '**Spitalul Municipal de Urgență Roman**, **strada Tineretului nr. 28–30**, centrală **0233 740 581** / **0233 740 639**. Cazurile grele urcă la **SJU Piatra Neamț, Traian 1**, **0233 219 440**. Confirmă stomatologul. Nu e lucrare de durată.'
 featureImg: /images/posts/stomatologie-urgenta-roman.webp
 thumb: /images/posts/stomatologie-urgenta-roman.webp
 date: Sep 13 2026
@@ -26,7 +26,7 @@ tags:
 
 # Stomatologie urgență Roman
 
-**Răspuns rapid:** Spitalul municipal din Roman acoperă CPU-ul local; județeanul e **SJU Piatra Neamț, Traian 1**, **0233 219 440**. **Nu am găsit un cabinet dentar de gardă publicat.** Confirmă. **Nu e detartraj.** 112 la traumă.
+**Răspuns rapid:** **Spitalul Municipal de Urgență Roman**, **strada Tineretului nr. 28–30**, centrală **0233 740 581** / **0233 740 639**. Cazurile grele urcă la **SJU Piatra Neamț, Traian 1**, **0233 219 440**. **Nu am găsit un cabinet dentar de gardă publicat.** Confirmă. **Nu e detartraj.** 112 la traumă.
 
 ## Întrebări frecvente
 
@@ -36,4 +36,4 @@ Centrala spitalului decide tura.
 
 ## Surse
 
-- [Spital](https://sjuneamt.ro/)
+- [Spital](https://new.spitalroman.ro/contact/)

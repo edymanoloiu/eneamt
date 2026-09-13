@@ -2,7 +2,7 @@
 postFormat: 'text'
 trending: false
 title: 'Farmacii non stop Piatra Neamț'
-excerpt: 'Lista Catena din 21 ianuarie 2026 ocolește Neamțul. Nu există scurtătură 24/7 la Roman sau Târgu Neamț pe acea listă.'
+excerpt: 'Ropharma nr. 13, Decebal 14, e NON-STOP pe ropharma.ro. Roman și Târgu Neamț nu sunt pe lista Catena 24/7 din 21 ianuarie 2026.'
 featureImg: /images/posts/farmacii-non-stop-piatra-neamt.webp
 thumb: /images/posts/farmacii-non-stop-piatra-neamt.webp
 date: Sep 13 2026
@@ -26,17 +26,16 @@ tags:
 
 # Farmacii non stop Piatra Neamț
 
-**Răspuns rapid:** **Nici Piatra Neamț, nici Roman, nici Târgu Neamț** nu apar pe lista Catena 24/7 din **21 ianuarie 2026**. **Sună.** **112**.
-
-DSP: **Dacia 4A**, Piatra Neamț.
+**Răspuns rapid:** În municipiu, **Ropharma nr. 13**, **Decebal 14**, **0724 212 553**, e scrisă **NON-STOP** de lanț. HartaFarmacii, **13 septembrie 2026**, **12:42**, pune **1 non-stop** din 27. **Roman** și **Târgu Neamț** nu apar pe lista Catena 24/7 din **21 ianuarie 2026**. **Sună.** **112**.
 
 ## Întrebări frecvente
 
-### E 24/7 în municipiu?
+### E 24/7 și la Roman?
 
-Nu pe lista Catena.
+Nu pe lista Catena și nu pe o pagină Ropharma NON-STOP pe care să o fi verificat. Județeanul de noapte, dacă răspunde, e Decebal 14.
 
 ## Surse
 
+- [Ropharma — farmacii Neamț](https://ropharma.ro/index.php?filter_zone_id=2708&route=product%2Ffarmacii)
+- [HartaFarmacii — Piatra Neamț](https://hartafarmacii.ro/farmacii-deschise-acum/piatra-neamt)
 - [Catena — non-stop](https://www.catena.ro/farmacii-catena-cu-program-non-stop)
-- [SJU Neamț](https://sjuneamt.ro/)

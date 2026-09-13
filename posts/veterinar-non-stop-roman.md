@@ -36,4 +36,4 @@ Nu am confirmat.
 
 ## Surse
 
-- [Spital](https://sjuneamt.ro/)
+- [Spital](https://new.spitalroman.ro/contact/)

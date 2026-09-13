@@ -2,7 +2,7 @@
 postFormat: 'text'
 trending: false
 title: 'Farmacii de gardă Piatra Neamț'
-excerpt: 'Avizier pe Traian. DSP Dacia 4A. Roman și Târgu Neamț au propriile uși, nu lista Catena.'
+excerpt: 'Avizier pe Traian. Noaptea: Ropharma nr. 13, Decebal 14. Roman are CPU propriu, nu preia garda de județ automat.'
 featureImg: /images/posts/farmacii-de-garda-piatra-neamt.webp
 thumb: /images/posts/farmacii-de-garda-piatra-neamt.webp
 date: Sep 13 2026
@@ -26,7 +26,9 @@ tags:
 
 # Farmacii de gardă Piatra Neamț
 
-**Răspuns rapid:** În municipiu, garda e pe **avizier**. DSP Neamț, **Dacia 4A**. Roman și Târgu Neamț nu preiau garda de județ automat.
+**Răspuns rapid:** Garda din municipiu e pe **ușă**. După închiderea de zi, lanțul scrie **NON-STOP** la **Decebal 14**, **0724 212 553**. Roman și Târgu Neamț își țin propriile aviziere.
 
 ## Surse
-- [Catena non-stop](https://www.catena.ro/farmacii-catena-cu-program-non-stop)
+
+- [Ropharma — farmacii Neamț](https://ropharma.ro/index.php?filter_zone_id=2708&route=product%2Ffarmacii)
+- [HartaFarmacii — Piatra Neamț](https://hartafarmacii.ro/farmacii-deschise-acum/piatra-neamt)
