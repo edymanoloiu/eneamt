@@ -140,7 +140,7 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 		.map((item) => normalizePartnerFeedItem(item))
 		.filter(Boolean);
 
-	const techList = sitemaps?.cm?.length ? sitemaps.cm : takeUniquePosts(localCity, 10, usedSlugs, promoPriority());
+	const techList = sitemaps?.cm?.length ? sitemaps.cm.slice(0, 6) : takeUniquePosts(localCity, 10, usedSlugs, promoPriority());
 	const editorPool = localCity.filter((p) => p.trending || p.topPost);
 	const editorPicks = takeUniquePosts(
 		editorPool.length ? editorPool : localCity,
@@ -314,7 +314,7 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 					<div className="soledad-container">
 						<h2 className="h24-section__title">
 							<Link href="https://cautimasina.ro" target="_blank" rel="noopener noreferrer">
-								Tehnologie &amp; auto
+								Auto
 							</Link>
 						</h2>
 						<LongList items={techList.map((item) => ({ ...item, slug: item.guid || item.slug }))} />
