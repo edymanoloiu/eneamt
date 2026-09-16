@@ -140,7 +140,7 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 		.map((item) => normalizePartnerFeedItem(item))
 		.filter(Boolean);
 
-	const techList = sitemaps?.cm?.length ? sitemaps.cm.slice(0, 6) : takeUniquePosts(localCity, 10, usedSlugs, promoPriority());
+	const techList = Array.isArray(sitemaps?.cm) ? sitemaps.cm.slice(0, 6) : [];
 	const editorPool = localCity.filter((p) => p.trending || p.topPost);
 	const editorPicks = takeUniquePosts(
 		editorPool.length ? editorPool : localCity,
