@@ -9,9 +9,9 @@ import {
 	sortPostsByDate,
 	takeUniquePosts,
 } from "../../../lib/homepagePosts";
-import site from "../../data/soledadSite";
+import site from "../../data/weboratorySite";
 import { isLocalNewsCate } from "../../utils/categories";
-import SoledadPostCard from "./SoledadPostCard";
+import WeboratoryPostCard from "./WeboratoryPostCard";
 
 const formatDate = (date) => {
 	try {
@@ -67,13 +67,13 @@ const TopicBlock = ({ title, lead, minis }) => {
 
 	return (
 		<section className="h24-topic-block">
-			<div className="soledad-container">
+			<div className="weboratory-container">
 				<h2 className="h24-topic-block__head">{title}</h2>
 				<div className="h24-topic-duo">
 					<div className="h24-topic-duo__lead">
-						<SoledadPostCard data={lead} variant="hero" />
+						<WeboratoryPostCard data={lead} variant="hero" />
 						{excerpt && (
-							<p style={{ marginTop: 14, fontSize: 14, color: "var(--soledad-text-muted)", lineHeight: 1.6 }}>
+							<p style={{ marginTop: 14, fontSize: 14, color: "var(--weboratory-text-muted)", lineHeight: 1.6 }}>
 								{excerpt}...
 							</p>
 						)}
@@ -94,7 +94,7 @@ const TopicBlock = ({ title, lead, minis }) => {
 	);
 };
 
-const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitemaps }) => {
+const Weboratory24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitemaps }) => {
 	const seen = new Set();
 	const dedupedLocal = localPosts.filter((p) => {
 		if (seen.has(p.slug)) return false;
@@ -205,7 +205,7 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 
 			{/* Top 6 – author byline grid */}
 			{topSix.length > 0 && (
-				<section className="soledad-container">
+				<section className="weboratory-container">
 					<div className="h24-top-grid">
 						{topSix.map((post) => {
 							const img = getPostImageSrc(post);
@@ -236,7 +236,7 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 
 			{/* 4 headline pills */}
 			{pillFour.length > 0 && (
-				<section className="soledad-container">
+				<section className="weboratory-container">
 					<div className="h24-pills">
 						{pillFour.map((post) => (
 							<Link key={post.slug} href={getPostHref(post)} className="h24-pills__item">
@@ -249,10 +249,10 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 
 			{/* Featured story + Trending Now */}
 			{featuredMain && (
-				<section className="soledad-container">
+				<section className="weboratory-container">
 					<div className="h24-featured-row">
 						<div className="h24-featured-main">
-							<SoledadPostCard data={featuredMain} variant="hero" />
+							<WeboratoryPostCard data={featuredMain} variant="hero" />
 						</div>
 						{trendingSix.length > 0 && (
 							<aside className="h24-trending-box">
@@ -272,7 +272,7 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 
 			{/* Entertainment | Money */}
 			{(entertainment.length > 0 || moneyList.length > 0) && (
-				<section className="soledad-container">
+				<section className="weboratory-container">
 					<div className="h24-dual-cols">
 						<div>
 							<h3 className="h24-dual-cols__title">
@@ -293,7 +293,7 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 			{/* Health */}
 			{healthPosts.length > 0 && (
 				<section className="h24-section h24-section--alt">
-					<div className="soledad-container">
+					<div className="weboratory-container">
 						<h2 className="h24-section__title">
 							<Link href="https://sfaturidesanatate.ro" target="_blank" rel="noopener noreferrer">
 								Sănătate
@@ -301,7 +301,7 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 						</h2>
 						<div className="h24-travel-grid">
 							{healthPosts.map((post) => (
-								<SoledadPostCard key={post.slug || post.link} data={post} variant="trending" />
+								<WeboratoryPostCard key={post.slug || post.link} data={post} variant="trending" />
 							))}
 						</div>
 					</div>
@@ -311,7 +311,7 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 			{/* Latest Technology */}
 			{techList.length > 0 && (
 				<section className="h24-section">
-					<div className="soledad-container">
+					<div className="weboratory-container">
 						<h2 className="h24-section__title">
 							<Link href="https://cautimasina.ro" target="_blank" rel="noopener noreferrer">
 								Auto
@@ -325,11 +325,11 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 			{/* Editor's Picks */}
 			{picksDisplay.length > 0 && (
 				<section className="h24-section h24-section--alt">
-					<div className="soledad-container">
+					<div className="weboratory-container">
 						<h2 className="h24-section__title">Alegerile redacției</h2>
 						<div className="h24-picks-grid">
 							{picksDisplay.slice(0, 8).map((post) => (
-								<SoledadPostCard key={post.slug} data={post} variant="trending" />
+								<WeboratoryPostCard key={post.slug} data={post} variant="trending" />
 							))}
 						</div>
 					</div>
@@ -339,7 +339,7 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 			{/* Travel */}
 			{travelPosts.length > 0 && (
 				<section className="h24-section">
-					<div className="soledad-container">
+					<div className="weboratory-container">
 						<h2 className="h24-section__title">
 							<Link href="https://meritasamergi.ro" target="_blank" rel="noopener noreferrer">
 								Călătorii
@@ -347,7 +347,7 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 						</h2>
 						<div className="h24-travel-grid">
 							{travelPosts.map((post) => (
-								<SoledadPostCard key={post.slug || post.link} data={post} variant="trending" />
+								<WeboratoryPostCard key={post.slug || post.link} data={post} variant="trending" />
 							))}
 						</div>
 					</div>
@@ -357,7 +357,7 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 			{/* Life Style */}
 			{lifestyleList.length > 0 && (
 				<section className="h24-section h24-section--alt">
-					<div className="soledad-container">
+					<div className="weboratory-container">
 						<h2 className="h24-section__title">
 							<Link href={`/categorie/${site.categorySlug}`}>Viață &amp; stil</Link>
 						</h2>
@@ -369,7 +369,7 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 			{/* Food & Cuisine */}
 			{foodLead && (
 				<section className="h24-topic-block h24-section--alt">
-					<div className="soledad-container">
+					<div className="weboratory-container">
 						<h2 className="h24-topic-block__head">
 							<Link href="https://azicemancam.ro" target="_blank" rel="noopener noreferrer">
 								Bucătărie &amp; rețete
@@ -377,7 +377,7 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 						</h2>
 						<div className="h24-food-layout">
 							<div className="h24-food-layout__lead">
-								<SoledadPostCard
+								<WeboratoryPostCard
 									data={{
 										...foodLead,
 										slug: foodLead.guid || foodLead.slug,
@@ -408,11 +408,11 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 			{/* Style & Trends */}
 			{stylePosts.length > 0 && (
 				<section className="h24-section">
-					<div className="soledad-container">
+					<div className="weboratory-container">
 						<h2 className="h24-section__title">Stil &amp; tendințe</h2>
 						<div className="h24-style-row">
 							{stylePosts.map((post) => (
-								<SoledadPostCard key={post.slug} data={post} variant="trending" />
+								<WeboratoryPostCard key={post.slug} data={post} variant="trending" />
 							))}
 						</div>
 					</div>
@@ -422,15 +422,15 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 			{/* Career */}
 			{(careerFeatured.length > 0 || careerLinks.length > 0) && (
 				<section className="h24-section h24-section--alt">
-					<div className="soledad-container">
+					<div className="weboratory-container">
 						<h2 className="h24-section__title">
 							<Link href="https://ghidullegal.ro" target="_blank" rel="noopener noreferrer">
 								Carieră &amp; drepturi
 							</Link>
 						</h2>
 						<div className="h24-career-layout">
-							{careerFeatured[0] && <SoledadPostCard data={careerFeatured[0]} variant="trending" />}
-							{careerFeatured[1] && <SoledadPostCard data={careerFeatured[1]} variant="trending" />}
+							{careerFeatured[0] && <WeboratoryPostCard data={careerFeatured[0]} variant="trending" />}
+							{careerFeatured[1] && <WeboratoryPostCard data={careerFeatured[1]} variant="trending" />}
 							<LinkList items={careerLinks} dense />
 						</div>
 					</div>
@@ -440,4 +440,4 @@ const Soledad24hNewsMagazine = ({ localPosts, culturePosts, nationalPosts, sitem
 	);
 };
 
-export default Soledad24hNewsMagazine;
+export default Weboratory24hNewsMagazine;

@@ -6,9 +6,9 @@ import { buildLocalPostsWithPromos, sortPostsByDate } from "../../lib/homepagePo
 import HeadMeta from "../components/elements/HeadMeta";
 import FooterOne from "../components/footer/FooterOne";
 import HeaderOne from "../components/header/HeaderOne";
-import Soledad24hNewsMagazine from "../components/soledad/Soledad24hNewsMagazine";
+import Weboratory24hNewsMagazine from "../components/weboratory/Weboratory24hNewsMagazine";
 import publication from "../data/publication";
-import site from "../data/soledadSite";
+import site from "../data/weboratorySite";
 import { isLocalNewsCate } from "../utils/categories";
 
 const HomeOne = ({ allPosts, sitemaps }) => {
@@ -31,7 +31,7 @@ const HomeOne = ({ allPosts, sitemaps }) => {
 				twitterDescription={publication.seo.twitter.description}
 			/>
 			<HeaderOne />
-			<Soledad24hNewsMagazine
+			<Weboratory24hNewsMagazine
 				localPosts={localPosts}
 				culturePosts={culturePosts}
 				nationalPosts={nationalPosts}

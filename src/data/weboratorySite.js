@@ -1,4 +1,4 @@
-const soledadSite = {
+const weboratorySite = {
 	localCate: "Azi in Neamt",
 	categorySlug: "azi-in-neamt",
 	pageH1: "Știri din Neamț",
@@ -13,4 +13,4 @@ const soledadSite = {
 	metaTitle: "eNeamț - Știri din Neamț și Piatra Neamț",
 };
 
-export default soledadSite;
+export default weboratorySite;
