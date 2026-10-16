@@ -32,6 +32,30 @@ const PER_CATEGORY = 40;
 const PROMO_LIMIT = 40;
 const FALLBACK_LATEST = 200;
 
+/**
+ * Keep in sync with src/utils/categories.js `isLocalNewsCate`.
+ * Inlined here so this build script stays free of Next/extensionless imports.
+ * Posts historically use "Azi in Piatra Neamt" (and a few spelling variants),
+ * while publication.localCate is "Azi in Neamt".
+ */
+function isLocalNewsCate(cate) {
+	if (!cate || cate === "Evenimente si cultura") return false;
+	const slug = String(cate)
+		.toLowerCase()
+		.normalize("NFD")
+		.replace(/[\u0300-\u036f]/g, "")
+		.replace(/[^a-z0-9]+/g, "-")
+		.replace(/^-+|-+$/g, "");
+	if (
+		slug === "azi-in-neamt" ||
+		slug === "azi-in-piatra-neamt" ||
+		slug === "azi-in-piatraneamt"
+	) {
+		return true;
+	}
+	return /piatra\s*neamt|neamt/i.test(String(cate));
+}
+
 function pick(entry) {
 	const out = {};
 	for (const field of HOME_FIELDS) {
@@ -83,7 +107,7 @@ function main() {
 	};
 
 	take((p) => p.cate === "Evenimente si cultura", PER_CATEGORY);
-	take((p) => p.cate === "Azi in Neamt", PER_CATEGORY);
+	take((p) => isLocalNewsCate(p.cate), PER_CATEGORY);
 	take((p) => p.cate === "Stiri nationale si internationale", PER_CATEGORY);
 	take((p) => Boolean(p.isPromo), PROMO_LIMIT);
 
