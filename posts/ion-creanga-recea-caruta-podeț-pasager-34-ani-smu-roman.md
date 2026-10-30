@@ -26,6 +26,12 @@ tags:
 
 Recea, DJ207D: atelaj hipo — podeț; pasager 34 ani (Ion Creangă) rănit, SMU Roman. Șofer 32 ani, identificat după părăsirea locului fără acordul poliției; 1,22 mg/l. Dosar vătămare + părăsire loc accident.
 
+
+## Ce înseamnă dosarul penal deschis?
+
+Formularea „vătămare corporală din culpă” indică faza de cercetare pentru stabilirea responsabilității rutiere, nu o condamnare. IPJ Neamț folosește formulări precum „ar fi” pentru descrierea dinamicii, semn că ancheta continuă. Persoanele vizate beneficiază de prezumția de nevinovăție până la o hotărâre definitivă.
+
+Comunicatul din 30 octombrie grupează mai multe evenimente rutiere din 29 octombrie; fiecare caz are loc, oră și împrejurări distincte, iar datele de alcoolemie sunt prezentate acolo unde testele au fost efectuate.
 ## Surse
 
 - https://nt.politiaromana.ro/ro/stiri-si-media/stiri/buletin-de-presa-30-octombrie1793347407

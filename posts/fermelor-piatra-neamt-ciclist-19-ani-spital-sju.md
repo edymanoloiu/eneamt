@@ -26,6 +26,12 @@ tags:
 
 29 oct., ~11:20, str. Fermelor, Piatra-Neamț: ciclist 19 ani — coliziune cu autoturism condus de bărbat 51 ani, aceeași direcție. Tânărul, la SJU Neamț. Teste alcool negative pentru amândoi. Dosar vătămare corporală din culpă (IPJ Neamț). Prezumție nevinovăție.
 
+
+## Ce înseamnă dosarul penal deschis?
+
+Formularea „vătămare corporală din culpă” indică faza de cercetare pentru stabilirea responsabilității rutiere, nu o condamnare. IPJ Neamț folosește formulări precum „ar fi” pentru descrierea dinamicii, semn că ancheta continuă. Persoanele vizate beneficiază de prezumția de nevinovăție până la o hotărâre definitivă.
+
+Comunicatul din 30 octombrie grupează mai multe evenimente rutiere din 29 octombrie; fiecare caz are loc, oră și împrejurări distincte, iar datele de alcoolemie sunt prezentate acolo unde testele au fost efectuate.
 ## Surse
 
 - https://nt.politiaromana.ro/ro/stiri-si-media/stiri/buletin-de-presa-30-octombrie1793347407
