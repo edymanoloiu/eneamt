@@ -32,12 +32,6 @@ Conform comunicatului, femeia ar fi fost lovită cu palma, apoi cu un topor în 
 
 Dosar penal pentru violență în familie; bărbatul a fost reținut 24 de ore.
 
-
-## Ce înseamnă dosarul penal deschis?
-
-Formularea „vătămare corporală din culpă” indică faza de cercetare pentru stabilirea responsabilității rutiere, nu o condamnare. IPJ Neamț folosește formulări precum „ar fi” pentru descrierea dinamicii, semn că ancheta continuă. Persoanele vizate beneficiază de prezumția de nevinovăție până la o hotărâre definitivă.
-
-Comunicatul din 30 octombrie grupează mai multe evenimente rutiere din 29 octombrie; fiecare caz are loc, oră și împrejurări distincte, iar datele de alcoolemie sunt prezentate acolo unde testele au fost efectuate.
 ## Surse
 
 - [IPJ Neamț – Buletin de presă 13 octombrie](https://nt.politiaromana.ro/ro/stiri-si-media/stiri/buletin-de-presa-13-octombrie1791874128)

@@ -49,12 +49,6 @@ Pe 16 octombrie, în jurul orei 13:10, Postul de Poliție Mărgineni a oprit un 
 
 Pentru cititor, ordinea e clară: Farcașa pe 15 octombrie (trafic + extravilan), apoi Mărgineni și Ion Creangă pe 16 octombrie. Toate cifrele — volume, amenzi, ore — provin din comunicatul IPJ Neamț; nu adăugăm cauze, localizări de stradă sau citate inventate.
 
-
-## Ce înseamnă dosarul penal deschis?
-
-Formularea „vătămare corporală din culpă” indică faza de cercetare pentru stabilirea responsabilității rutiere, nu o condamnare. IPJ Neamț folosește formulări precum „ar fi” pentru descrierea dinamicii, semn că ancheta continuă. Persoanele vizate beneficiază de prezumția de nevinovăție până la o hotărâre definitivă.
-
-Comunicatul din 30 octombrie grupează mai multe evenimente rutiere din 29 octombrie; fiecare caz are loc, oră și împrejurări distincte, iar datele de alcoolemie sunt prezentate acolo unde testele au fost efectuate.
 ## Surse
 
 - [IPJ Neamț – Buletin de presă 17 octombrie](https://nt.politiaromana.ro/ro/stiri-si-media/stiri/buletin-de-presa-17-octombrie1792214473)
