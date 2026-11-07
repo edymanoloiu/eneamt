@@ -40,4 +40,3 @@ Pe DN2, o acțiune în sistem releu a dus la 81 de amenzi. Cele mai multe, 22, a
 - https://nt.politiaromana.ro/ro/stiri-si-media/stiri/perchezitii-in-cadrul-operatiunii-jupiter-material-lemnos-confiscat
 - https://nt.politiaromana.ro/ro/stiri-si-media/stiri/rezultatele-actiunii-politistilor-pe-dn21794033036
 - https://nt.politiaromana.ro/ro/stiri-si-media/stiri/update-perchezitie-in-cadrul-operatiunii-jupiter-o-persoana-a-fost-retinuta-de-politisti
-
