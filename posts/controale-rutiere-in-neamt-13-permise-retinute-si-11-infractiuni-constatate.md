@@ -32,7 +32,10 @@ La Târgu-Neamț, un șofer de 21 de ani a fost testat cu 0,65 mg/l. În Zăneș
 
 Dosarele se află în cercetare. Rezultatele aparatelor din trafic și acuzațiile nu țin locul unei hotărâri definitive.
 
+În noaptea următoare, între 20:00 și 04:00, o acțiune ROADPOL a identificat încă un șofer cu peste 0,40 mg/l alcool pur în aerul expirat. Testările pentru posibile substanțe psihoactive au fost negative, arată comunicatul poliției.
+
 ## Surse
 
 - https://nt.politiaromana.ro/ro/stiri-si-media/stiri/buletin-de-presa-9-noiembrie1794216875
 - https://nt.politiaromana.ro/ro/stiri-si-media/stiri/actiuni-si-interventii-ale-politistilor-in-ultimele-48-de-ore1794216779
+- https://nt.politiaromana.ro/ro/stiri-si-media/stiri/actiuni-pentru-siguranta-rutiera-conducator-auto-scos-din-trafic-de-politisti
