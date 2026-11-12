@@ -18,7 +18,7 @@ author_bio: 'Ioana Păduraru este o jurnalistă din Piatra Neamț care surprinde
 tags:
 - Actualitate
 - Știri locale
-
+---
 
 ![Neamț: percheziții în Neamț într-un dosar privind extragerea fără drept a agregatelor minerale](/images/posts/neamt-perchezitii-agregate-minerale-eneamt-12-noiembrie-2026.webp)
 
