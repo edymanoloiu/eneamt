@@ -9,7 +9,7 @@
             <link>https://eneamt.ro</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Nov 2026 11:47:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 19:38:06 GMT</lastBuildDate>
         <atom:link href="https://eneamt.ro/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[ro]]></language>
         <item>
@@ -28,7 +28,7 @@
             <guid isPermaLink="true">https://eneamt.ro/post/evenimentele-de-pe-21-noiembrie-2026-in-judetul-neamt</guid>
             <category><![CDATA[Azi in Piatra Neamt]]></category>
             <pubDate>Sat, 21 Nov 2026 22:00:00 GMT</pubDate>
-            <enclosure url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zona_veche_Piatra_Neam%C5%A3.jpg/1200px-Zona_veche_Piatra_Neam%C5%A3.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="/images/posts/meteo-neamt-eneamt-r3-20-noiembrie-2026.webp" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Horoscop zilnic azi – dragoste, bani și sănătate pentru fiecare zodie – 22 noiembrie 2026]]></title>
@@ -39,6 +39,16 @@
             <category><![CDATA[Horoscop]]></category>
             <pubDate>Sat, 21 Nov 2026 22:00:00 GMT</pubDate>
             <enclosure url="https://images.unsplash.com/photo-1614089254151-676cc373b01e" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peste 11.000 de consumatori fără curent în Neamț, vineri dimineață]]></title>
+            <description><![CDATA[Pompierii au intervenit în Borlești, Gârcina, Piatra Neamț, Bicaz, Tașca și Dănești.]]></description>
+            <link>https://eneamt.ro/post/peste-11-000-de-consumatori-fara-curent-in-neamt-vineri-dimineata</link>
+            <guid isPermaLink="true">https://eneamt.ro/post/peste-11-000-de-consumatori-fara-curent-in-neamt-vineri-dimineata</guid>
+            <category><![CDATA[Actualitate locală]]></category>
+            <category><![CDATA[Informații oficiale]]></category>
+            <pubDate>Sat, 21 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="/images/posts/peste-11-000-de-consumatori-fara-curent-in-neamt-vineri-dimineata.webp" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Horoscop azi pentru zodia ta – previziuni actualizate zilnic – 21 noiembrie 2026]]></title>
@@ -192,16 +202,6 @@
             <category><![CDATA[Horoscop]]></category>
             <pubDate>Tue, 17 Nov 2026 22:00:00 GMT</pubDate>
             <enclosure url="/images/posts/energie-iarna-vouchere-eneamt-18-noiembrie-2026.webp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Neamț: ce trebuie verificat la mașină înainte de prima ninsoare. Ce arată informarea oficială]]></title>
-            <description><![CDATA[Verificările indicate privesc bateria, frânele, luminile și lichidul de parbriz potrivit temperaturilor scăzute.]]></description>
-            <link>https://eneamt.ro/post/iarna-pregatire-auto-eneamt-18-noiembrie-2026</link>
-            <guid isPermaLink="true">https://eneamt.ro/post/iarna-pregatire-auto-eneamt-18-noiembrie-2026</guid>
-            <category><![CDATA[Azi in Piatra Neamt]]></category>
-            <category><![CDATA[Horoscop]]></category>
-            <pubDate>Tue, 17 Nov 2026 22:00:00 GMT</pubDate>
-            <enclosure url="/images/posts/iarna-pregatire-auto-eneamt-18-noiembrie-2026.webp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

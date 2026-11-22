@@ -3,7 +3,7 @@ postFormat: 'text'
 trending: true
 title: "Evenimentele de pe 21 noiembrie 2026 în județul Neamț"
 excerpt: "Pe 21 noiembrie 2026, județul Neamț a fost martor la o serie de evenimente semnificative, inclusiv accidente rutiere, incidente în școli și inițiative locale pentru dezvoltare. În continuare, detaliem aceste evenimente importante."
-featureImg: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zona_veche_Piatra_Neam%C5%A3.jpg/1200px-Zona_veche_Piatra_Neam%C5%A3.jpg
+featureImg: /images/posts/meteo-neamt-eneamt-r3-20-noiembrie-2026.webp
 date: Nov 22 2026
 cate: 'Azi in Piatra Neamt'
 cate_bg: 'bg-color-red-one'
