@@ -9,7 +9,7 @@
             <link>https://eneamt.ro</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Nov 2026 10:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 15:02:53 GMT</lastBuildDate>
         <atom:link href="https://eneamt.ro/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[ro]]></language>
         <item>
@@ -21,6 +21,24 @@
             <category><![CDATA[Horoscop]]></category>
             <pubDate>Mon, 23 Nov 2026 22:00:00 GMT</pubDate>
             <enclosure url="/images/posts/cod-galben-anm-24-noiembrie-nt-eneamt-24-noiembrie-2026.webp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cultura în Piatra Neamț: Evenimentele de pe 24 noiembrie 2026]]></title>
+            <description><![CDATA[Pe 24 noiembrie 2026, Piatra Neamț va fi gazda unei serii de evenimente culturale, incluzând spectacole de teatru, expoziții de medalii și o conferință internațională dedicată patrimoniului textil.]]></description>
+            <link>https://eneamt.ro/post/cultura-in-piatra-neamt-evenimentele-de-pe-24-noiembrie-2026</link>
+            <guid isPermaLink="true">https://eneamt.ro/post/cultura-in-piatra-neamt-evenimentele-de-pe-24-noiembrie-2026</guid>
+            <category><![CDATA[Evenimente si cultura]]></category>
+            <pubDate>Mon, 23 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="https://images.pexels.com/photos/33129/popcorn-movie-party-entertainment.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Evenimentele marcante din județul Neamț pe 23 noiembrie 2026]]></title>
+            <description><![CDATA[Pe 23 noiembrie 2026, județul Neamț a fost scena unor evenimente variate, de la intervenții ale poliției și accidente rutiere, până la investiții în economie și inițiative educaționale. Iată un rezumat al principalelor știri din regiune.]]></description>
+            <link>https://eneamt.ro/post/evenimentele-marcante-din-judetul-neamt-pe-23-noiembrie-2026</link>
+            <guid isPermaLink="true">https://eneamt.ro/post/evenimentele-marcante-din-judetul-neamt-pe-23-noiembrie-2026</guid>
+            <category><![CDATA[Azi in Piatra Neamt]]></category>
+            <pubDate>Mon, 23 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zona_veche_Piatra_Neam%C5%A3.jpg/1200px-Zona_veche_Piatra_Neam%C5%A3.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Horoscop azi pentru zodia ta – previziuni actualizate zilnic – 24 noiembrie 2026]]></title>
@@ -61,6 +79,15 @@
             <category><![CDATA[Horoscop]]></category>
             <pubDate>Mon, 23 Nov 2026 22:00:00 GMT</pubDate>
             <enclosure url="/images/posts/neamt-truck-eneamt-24-noiembrie-2026.webp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Măsuri de prevenire a incendiilor în locuințe pentru sezonul rece în Neamț — informațiile oficiale]]></title>
+            <description><![CDATA[Ce a anunțat instituția și care sunt informațiile practice. Comitetul Județean pentru Situații de Urgență a aprobat planul pentru iarna 2026–2027.]]></description>
+            <link>https://eneamt.ro/post/neamt-winter-eneamt-r3-24-noiembrie-2026</link>
+            <guid isPermaLink="true">https://eneamt.ro/post/neamt-winter-eneamt-r3-24-noiembrie-2026</guid>
+            <category><![CDATA[Azi in Piatra Neamt]]></category>
+            <pubDate>Mon, 23 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="/images/posts/neamt-winter-eneamt-r3-24-noiembrie-2026.webp" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[50 de sancțiuni și două infracțiuni constatate în operațiunea din Roman]]></title>
@@ -176,34 +203,6 @@
             <category><![CDATA[Azi in Piatra Neamt]]></category>
             <pubDate>Thu, 19 Nov 2026 22:00:00 GMT</pubDate>
             <enclosure url="/images/posts/meteo-neamt-eneamt-r3-20-noiembrie-2026.webp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Doi pompieri aflați în timpul liber au intervenit la incendii în Neamț — datele oficiale]]></title>
-            <description><![CDATA[Pentru cititorii din Neamț: unul a limitat propagarea focului la o casă aflată la mai puțin de doi metri de anexa cuprinsă de flăcări.]]></description>
-            <link>https://eneamt.ro/post/pompieri-liber-eneamt-r2-20-noiembrie-2026</link>
-            <guid isPermaLink="true">https://eneamt.ro/post/pompieri-liber-eneamt-r2-20-noiembrie-2026</guid>
-            <category><![CDATA[Azi in Piatra Neamt]]></category>
-            <pubDate>Thu, 19 Nov 2026 22:00:00 GMT</pubDate>
-            <enclosure url="/images/posts/pompieri-liber-eneamt-r2-20-noiembrie-2026.webp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[17 sancțiuni în controalele desfășurate lângă școli din Neamț]]></title>
-            <description><![CDATA[Polițiștii și jandarmii au desfășurat acțiuni pentru siguranța elevilor în zonele unităților de învățământ din Izvoare și Zănești. Au fost organizate 11 activități preventive, iar în controalele conexe au fost legitimate 23 de persoane și verificate 16 vehicule.]]></description>
-            <link>https://eneamt.ro/post/19-11-2026-17-sanctiuni-in-controalele-desfasurate-langa-scoli-din-neamt-eneamt</link>
-            <guid isPermaLink="true">https://eneamt.ro/post/19-11-2026-17-sanctiuni-in-controalele-desfasurate-langa-scoli-din-neamt-eneamt</guid>
-            <category><![CDATA[Știri locale]]></category>
-            <category><![CDATA[Informații oficiale]]></category>
-            <pubDate>Wed, 18 Nov 2026 22:00:00 GMT</pubDate>
-            <enclosure url="/images/posts/19-11-2026-17-sanctiuni-in-controalele-desfasurate-langa-scoli-din-neamt-eneamt.webp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Evenimentele zilei de 18 noiembrie 2026 în județul Neamț]]></title>
-            <description><![CDATA[În județul Neamț, ziua de 18 noiembrie 2026 a fost marcată de un cutremur resimțit de locuitori, incidente rutiere grave în Roman și un incendiu forestier în comuna Tașca. De asemenea, au avut loc discuții despre problemele sociale și economice ale comunității.]]></description>
-            <link>https://eneamt.ro/post/evenimentele-zilei-de-18-noiembrie-2026-in-judetul-neamt</link>
-            <guid isPermaLink="true">https://eneamt.ro/post/evenimentele-zilei-de-18-noiembrie-2026-in-judetul-neamt</guid>
-            <category><![CDATA[Azi in Piatra Neamt]]></category>
-            <pubDate>Wed, 18 Nov 2026 22:00:00 GMT</pubDate>
-            <enclosure url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zona_veche_Piatra_Neam%C5%A3.jpg/1200px-Zona_veche_Piatra_Neam%C5%A3.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
