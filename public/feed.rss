@@ -9,9 +9,19 @@
             <link>https://eneamt.ro</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Nov 2026 08:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 10:34:03 GMT</lastBuildDate>
         <atom:link href="https://eneamt.ro/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[ro]]></language>
+        <item>
+            <title><![CDATA[Solicitare de acord de mediu pentru rețelele electrice de pe strada Fermelor din Piatra-Neamț]]></title>
+            <description><![CDATA[Publicul poate consulta documentația și transmite observații la Direcția Județeană de Mediu Neamț.]]></description>
+            <link>https://eneamt.ro/post/acord-mediu-retele-fermelor-piatra-neamt-eneamt</link>
+            <guid isPermaLink="true">https://eneamt.ro/post/acord-mediu-retele-fermelor-piatra-neamt-eneamt</guid>
+            <category><![CDATA[Actualitate]]></category>
+            <category><![CDATA[Știri locale]]></category>
+            <pubDate>Wed, 25 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="/images/posts/acord-mediu-retele-fermelor-piatra-neamt-eneamt.webp" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Ce spun astrele azi? Horoscopul zilei pentru toate zodiile – 26 noiembrie 2026]]></title>
             <description><![CDATA[Horoscop zilnic – 26 noiembrie 2026 Scurtă prezentare: interpretările de mai jos urmează convențiile tradiției astrologice și sunt redactate ca sugestii practice, nu ca predicții absolute. Citiți selectiv și adaptați la contextul personal. Berbec General: În interpretarea astrologică, ziua de azi poate favoriza inițiative moderate: e un moment potrivit pentru a prioritiza sarcinile clare și]]></description>
@@ -190,16 +200,6 @@
             <category><![CDATA[Horoscop]]></category>
             <pubDate>Mon, 23 Nov 2026 22:00:00 GMT</pubDate>
             <enclosure url="/images/posts/neamt-bulletin-eneamt-24-noiembrie-2026.webp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[295 de sancțiuni după controalele Truck&Bus din Neamț — informațiile oficiale]]></title>
-            <description><![CDATA[Datele oficiale pentru cititorii locali: polițiștii au verificat 466 de vehicule de transport persoane și marfă în perioada 16–22 noiembrie.]]></description>
-            <link>https://eneamt.ro/post/neamt-truck-eneamt-24-noiembrie-2026</link>
-            <guid isPermaLink="true">https://eneamt.ro/post/neamt-truck-eneamt-24-noiembrie-2026</guid>
-            <category><![CDATA[Azi in Piatra Neamt]]></category>
-            <category><![CDATA[Horoscop]]></category>
-            <pubDate>Mon, 23 Nov 2026 22:00:00 GMT</pubDate>
-            <enclosure url="/images/posts/neamt-truck-eneamt-24-noiembrie-2026.webp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
