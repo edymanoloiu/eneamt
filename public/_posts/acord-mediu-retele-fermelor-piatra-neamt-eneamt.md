@@ -23,7 +23,7 @@ tags:
 
 ## Datele comunicate oficial
 
-Documentul oficial consultat de redacție fixează următoarele date: Intervențiile sunt incluse în proiectul coridorului integrat de mobilitate urbană inteligentă de pe strada Fermelor. Anunțul marchează etapa de consultare din procedura de mediu, nu emiterea acordului.
+Documentul oficial consultat de redacția eNeamț fixează următoarele date: Intervențiile sunt incluse în proiectul coridorului integrat de mobilitate urbană inteligentă de pe strada Fermelor. Anunțul marchează etapa de consultare din procedura de mediu, nu emiterea acordului.
 
 Concret: Proiectul și memoriul de prezentare pot fi consultate la Direcția Județeană de Mediu Neamț, Piața 22 Decembrie nr. 5. Programul indicat este luni–joi, între 09:00 și 14:00, și vineri, între 09:00 și 12:00.
 

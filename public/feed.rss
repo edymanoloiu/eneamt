@@ -9,9 +9,18 @@
             <link>https://eneamt.ro</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Nov 2026 14:49:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 17:22:06 GMT</lastBuildDate>
         <atom:link href="https://eneamt.ro/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[ro]]></language>
+        <item>
+            <title><![CDATA[Accident la Buruienești: pietonă rănită grav și dusă la spital]]></title>
+            <description><![CDATA[Poliția Neamț a deschis dosar pentru vătămare corporală din culpă după incidentul de pe DJ 207K.]]></description>
+            <link>https://eneamt.ro/post/accident-buruienesti-dj207k-pietona-spital-2026</link>
+            <guid isPermaLink="true">https://eneamt.ro/post/accident-buruienesti-dj207k-pietona-spital-2026</guid>
+            <category><![CDATA[eneamt]]></category>
+            <pubDate>Thu, 26 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="/images/posts/accident-buruienesti-dj207k-pietona-spital-2026.webp" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Accident în Piatra-Neamț: o pasageră a fost transportată la spital]]></title>
             <description><![CDATA[Două mașini au intrat în coliziune pe strada 1 Decembrie 1918; alcooltestele șoferilor au fost negative.]]></description>
@@ -190,15 +199,6 @@
             <category><![CDATA[Azi in Piatra Neamt]]></category>
             <pubDate>Tue, 24 Nov 2026 22:00:00 GMT</pubDate>
             <enclosure url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zona_veche_Piatra_Neam%C5%A3.jpg/1200px-Zona_veche_Piatra_Neam%C5%A3.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Măsuri pentru sezonul rece în Neamț: coșuri curățate și centrale verificate]]></title>
-            <description><![CDATA[Proprietarii sunt îndemnați să verifice centralele, să curețe și să controleze periodic coșurile de fum prin persoane autorizate și să izoleze traseele fierbinți față de lemn sau alte materiale combustibile.]]></description>
-            <link>https://eneamt.ro/post/neamt-iarna-eneamt-25-noiembrie-2026</link>
-            <guid isPermaLink="true">https://eneamt.ro/post/neamt-iarna-eneamt-25-noiembrie-2026</guid>
-            <category><![CDATA[Evenimente si cultura]]></category>
-            <pubDate>Tue, 24 Nov 2026 22:00:00 GMT</pubDate>
-            <enclosure url="/images/posts/neamt-iarna-eneamt-25-noiembrie-2026.webp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
